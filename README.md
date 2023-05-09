@@ -8,7 +8,7 @@
 
 ****
 
-## 1.Intro 🔗
+## 1.Introducción. 🔗
 HTML5 trabaja de la mano con CSS3, para crear paginas web que utilizamos todos los días en el navegador; icluso este sitio web en donde estas viendo este contenido, fue contruido con los mismos programas mencionados al principio.
 En este proyecto, con los conocimientos del HTML y CSS3, logre realizar la clonación de la interfaz de Google.
 
