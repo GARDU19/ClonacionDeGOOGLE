@@ -2,7 +2,7 @@
 
 ## INDICE
 
-* [1. Intro](#)
+* [1. Introducción](#)
 * [2.¿Qué Construí?](#)
 * [3.Objetivo del Proyecto](#)
 
